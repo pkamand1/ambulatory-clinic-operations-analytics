@@ -1,41 +1,41 @@
 provider_key,department_key,charges,mean_lag_days,median_lag_days,share_posted_within_3_days,share_posted_after_7_days,flag
 PRV117,Cardiology,1676,12.1,10.0,0.1205,0.6492,True
+PRV105,Primary Care,2932,2.0,2.0,0.8458,0.0095,False
 PRV109,Primary Care,2032,2.0,2.0,0.844,0.0138,False
 PRV110,Primary Care,3728,2.0,2.0,0.8527,0.0091,False
 PRV111,Primary Care,2948,2.0,2.0,0.8396,0.0064,False
 PRV113,Cardiology,2181,2.0,2.0,0.8482,0.0087,False
+PRV114,Cardiology,1467,2.0,2.0,0.8398,0.0102,False
 PRV115,Cardiology,2496,2.0,2.0,0.8462,0.0104,False
 PRV118,Cardiology,2287,2.0,2.0,0.8487,0.0092,False
+PRV121,Hematology-Oncology,2542,2.0,2.0,0.8544,0.0087,False
+PRV124,Hematology-Oncology,2537,2.0,2.0,0.8486,0.0087,False
 PRV130,Orthopedics,3351,2.0,2.0,0.8502,0.0084,False
+PRV131,Orthopedics,2971,2.0,2.0,0.8516,0.0128,False
 PRV132,Orthopedics,4035,2.0,2.0,0.8563,0.0107,False
+PRV133,Orthopedics,3258,2.0,2.0,0.8533,0.012,False
+PRV137,Pediatrics,3343,2.0,2.0,0.8525,0.0087,False
 PRV139,Pediatrics,3731,2.0,2.0,0.8512,0.0096,False
 PRV140,Pediatrics,3085,2.0,2.0,0.8502,0.0078,False
-PRV137,Pediatrics,3343,2.0,2.0,0.8525,0.0087,False
-PRV133,Orthopedics,3258,2.0,2.0,0.8533,0.012,False
-PRV131,Orthopedics,2971,2.0,2.0,0.8516,0.0128,False
-PRV124,Hematology-Oncology,2537,2.0,2.0,0.8486,0.0087,False
-PRV121,Hematology-Oncology,2542,2.0,2.0,0.8544,0.0087,False
-PRV114,Cardiology,1467,2.0,2.0,0.8398,0.0102,False
-PRV105,Primary Care,2932,2.0,2.0,0.8458,0.0095,False
-PRV129,Endocrinology,2552,1.9,1.0,0.8625,0.0063,False
-PRV127,Endocrinology,2317,1.9,1.0,0.864,0.006,False
-PRV102,Primary Care,3808,1.9,2.0,0.8503,0.011,False
-PRV134,Orthopedics,2148,1.9,2.0,0.8561,0.0084,False
-PRV136,Pediatrics,2718,1.9,2.0,0.8613,0.0125,False
-PRV125,Endocrinology,2366,1.9,1.0,0.8516,0.0085,False
-PRV123,Hematology-Oncology,2286,1.9,1.0,0.8574,0.0105,False
-PRV120,Hematology-Oncology,2524,1.9,2.0,0.8538,0.0091,False
-PRV119,Hematology-Oncology,1956,1.9,2.0,0.8502,0.0051,False
-PRV116,Cardiology,2810,1.9,2.0,0.8594,0.0107,False
-PRV106,Primary Care,3401,1.9,2.0,0.8597,0.0068,False
 PRV101,Primary Care,3934,1.9,2.0,0.8541,0.0089,False
+PRV102,Primary Care,3808,1.9,2.0,0.8503,0.011,False
 PRV103,Primary Care,3604,1.9,2.0,0.8627,0.0094,False
 PRV104,Primary Care,1576,1.9,2.0,0.8687,0.0114,False
+PRV106,Primary Care,3401,1.9,2.0,0.8597,0.0068,False
 PRV107,Primary Care,2591,1.9,2.0,0.8491,0.0062,False
 PRV108,Primary Care,2010,1.9,2.0,0.8493,0.007,False
 PRV112,Primary Care,3018,1.9,2.0,0.8559,0.0066,False
+PRV116,Cardiology,2810,1.9,2.0,0.8594,0.0107,False
+PRV119,Hematology-Oncology,1956,1.9,2.0,0.8502,0.0051,False
+PRV120,Hematology-Oncology,2524,1.9,2.0,0.8538,0.0091,False
 PRV122,Hematology-Oncology,1990,1.9,2.0,0.8568,0.009,False
+PRV123,Hematology-Oncology,2286,1.9,1.0,0.8574,0.0105,False
+PRV125,Endocrinology,2366,1.9,1.0,0.8516,0.0085,False
 PRV126,Endocrinology,2868,1.9,2.0,0.8626,0.008,False
+PRV127,Endocrinology,2317,1.9,1.0,0.864,0.006,False
 PRV128,Endocrinology,2036,1.9,2.0,0.8487,0.0083,False
+PRV129,Endocrinology,2552,1.9,1.0,0.8625,0.0063,False
+PRV134,Orthopedics,2148,1.9,2.0,0.8561,0.0084,False
 PRV135,Orthopedics,3751,1.9,1.0,0.8598,0.0064,False
+PRV136,Pediatrics,2718,1.9,2.0,0.8613,0.0125,False
 PRV138,Pediatrics,3646,1.9,2.0,0.8582,0.006,False

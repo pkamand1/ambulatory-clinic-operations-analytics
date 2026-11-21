@@ -139,7 +139,7 @@ def no_show_model(a):
 
 
 def provider_flags(con):
-    lag = con.sql("select * from v_charge_lag order by mean_lag_days desc").df()
+    lag = con.sql("select * from v_charge_lag order by mean_lag_days desc, provider_key").df()
     em = con.sql("""
         select provider_key, department_key,
                count(*) filter (where cpt_code = '99215') as level5, count(*) as est_visits
