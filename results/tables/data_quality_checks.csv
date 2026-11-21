@@ -1,0 +1,10 @@
+check,failing_rows,status
+appointment ids unique,0,pass
+each slot booked at most once,0,pass
+appointments without a slot,0,pass
+scheduled after the appointment date,0,pass
+charges for visits that were not completed,0,pass
+completed visits without a charge,0,pass
+charges posted before the service date,0,pass
+patients in facts missing from dimension,0,pass
+pediatric visits by adults (age 18 or older),0,pass

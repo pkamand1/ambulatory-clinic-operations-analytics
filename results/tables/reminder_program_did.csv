@@ -1,0 +1,10 @@
+estimate,value,ci_low,ci_high
+"no-show rate, reminder departments, Jan to Jun",0.1411,,
+"no-show rate, reminder departments, Jul to Dec",0.1034,,
+"no-show rate, other departments, Jan to Jun",0.1636,,
+"no-show rate, other departments, Jul to Dec",0.1705,,
+"naive before-after change, reminder departments (points)",-0.0378,,
+difference-in-differences (percentage points),-0.0447,,
+"DiD log-odds ratio, fixed effects",-0.404,-0.466,-0.343
+"DiD log-odds ratio, fixed effects + patient covariates",-0.414,-0.476,-0.352
+"true effect in the simulation (log-odds, conditional on patient)",-0.45,,
